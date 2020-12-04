@@ -1,0 +1,19 @@
+{
+  "name": "testpackagelock",
+  "version": "1.0.0",
+  "description": "Repo created to test issue with package-lock.json file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NickScottKortical/testpackagelock.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NickScottKortical/testpackagelock/issues"
+  },
+  "homepage": "https://github.com/NickScottKortical/testpackagelock#readme"
+}
